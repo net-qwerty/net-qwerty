@@ -7,7 +7,6 @@
 <br />
   
 **Languages and Tools:**  
-![image](https://user-images.githubusercontent.com/61651838/216839904-eee63c07-df5a-40ab-8fc1-399d10b3c250.png)
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
